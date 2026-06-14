@@ -1,4 +1,4 @@
-# 🚴‍♂️ Cyclistic Bike-Share Data Analysis
+# 🚴‍♂️ Cyclistic Bike-Share Data Analysis ( Excel, SQL, R )
 ### 🎓 Google Data Analytics Specialization - Capstone Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.cyclistic-bike-share-case-study)
